@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+pdf2image
+Pillow
+pdfplumber
+pdfminer.six
+python-dotenv
+langchain-openai
